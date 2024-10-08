@@ -1,7 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
 
    const url = "https://www.randyconnolly.com/funwebdev/3rd/api/colors/sample-colors.php";
-   //const url = "http://localhost/practice/project1/sample-colors.php.json";
    const article = document.querySelector(".scheme-group");
    const loader = document.getElementById("loader");
    
